@@ -74,4 +74,35 @@ body {
     width: 100%;
 }
 
+@media (max-width: 900px){
+    .tabs-container {
+        width: 80%;
+    }
+
+    .tabs-container,
+    .tab-heading-container {
+        justify-content: space-between;
+    }
+
+    .tabs-container .tab-heading {
+        flex: 1;
+    }
+}
+
+@media (max-width: 600px) {
+    .tabs-container {
+        width: 90%;
+    }
+
+    .tabs-container .tab-content h2 {
+        font-size: 30px;
+        margin-top: 16px;
+        margin-bottom: 8px;
+    }
+
+    .tabs-container.tab-heading {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
 
