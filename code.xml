@@ -1,0 +1,193 @@
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" frameborder="0" height="420em" src="https://www.youtube.com/embed/yTDbFdXJZrc" width="100%" youtube-src-id="yTDbFdXJZrc"></iframe></div><br />
+<h3 style="text-align: center;">Project Complete Successfully.</h3>
+<br />
+
+<style>
+
+.tabs-container-p04,
+.tabs-container-p04 * {
+    box-sizing: border-box;
+}
+
+.tabs-container-p04 {
+  	margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    font-family: "Roboto", sans-serif;
+    padding: 16px;
+    background-color: #fff;
+    color: #14213d;
+    box-shadow: 0 5px 50px -8px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.tabs-container-p04 .tab-heading .icon svg {
+    height: 30px;
+}
+
+.tabs-container-p04 .tab-heading-container {
+    display: flex;
+    background-color: #e63946;
+    margin: -16px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.tabs-container-p04 .tab-heading {
+    padding: 12px 30px;
+    cursor: pointer;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    font-family: 800;
+  	font-size: .9em;
+    gap: 4px;
+}
+
+.tabs-container-p04 .tab-heading.active {
+    background-color: #1d3557;
+}
+
+.tabs-container-p04 .tab-content {
+    display: none;
+  	overflow-y: scroll;
+    height: 290px;
+    margin-top: 24px;
+}
+
+.tabs-container-p04 .tab-content.active {
+    display: block;
+}
+
+.tabs-container-p04 .tab-content h2{
+    font-size: 40px;
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+
+.tabs-container-p04 .tab-content .content {
+    line-height: 2;
+}
+
+.tabs-container-p04 .tab-content .content img {
+    width: 100%;
+}
+
+@media (max-width: 720px) {
+    .tabs-container-p04 {
+        width: 90%;
+      	height: 300px;
+    }
+  
+  	.tabs-container-p04 .tab-heading {
+        font-size: .63em;
+        padding: 8px;
+    }
+  
+    .tabs-container-p04 .tab-content {
+        height: 215px;
+    }
+  
+  	.tabs-container-p04 .tab-content h2 {
+        font-size: 1.5em;
+        margin-top: 16px;
+        margin-bottom: 8px;
+    }
+  
+    .tabs-container-p04 .tab-content .content {
+  		font-size: 1em;
+        line-height: 1.5;
+    }
+}
+</style>
+
+<div class="tabs-container-p04">
+        <div class="tab-heading-container">
+            <div class="tab-heading active">
+                <div class="icon">
+                    <svg class="w-6 h-6" fill="none" stroke-width="1.5" stroke="currentColor" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" stroke-linecap="round" stroke-linejoin="round">
+                    </path></svg>
+                </div>
+              Bookmarks
+            </div>
+
+            <div class="tab-heading">
+                <div class="icon">
+                    <svg class="w-6 h-6" fill="none" stroke-width="1.5" stroke="currentColor" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7.5 14.25v2.25m3-4.5v4.5m3-6.75v6.75m3-9v9M6 20.25h12A2.25 2.25 0 0020.25 18V6A2.25 2.25 0 0018 3.75H6A2.25 2.25 0 003.75 6v12A2.25 2.25 0 006 20.25z" stroke-linecap="round" stroke-linejoin="round">
+                    </path></svg>
+                </div>
+              Analytics
+              </div>
+
+            <div class="tab-heading">
+                <div class="icon">
+                    <svg class="w-6 h-6" fill="none" stroke-width="1.5" stroke="currentColor" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M20.25 8.511c.884.284 1.5 1.128 1.5 2.097v4.286c0 1.136-.847 2.1-1.98 2.193-.34.027-.68.052-1.02.072v3.091l-3-3c-1.354 0-2.694-.055-4.02-.163a2.115 2.115 0 01-.825-.242m9.345-8.334a2.126 2.126 0 00-.476-.095 48.64 48.64 0 00-8.048 0c-1.131.094-1.976 1.057-1.976 2.192v4.286c0 .837.46 1.58 1.155 1.951m9.345-8.334V6.637c0-1.621-1.152-3.026-2.76-3.235A48.455 48.455 0 0011.25 3c-2.115 0-4.198.137-6.24.402-1.608.209-2.76 1.614-2.76 3.235v6.226c0 1.621 1.152 3.026 2.76 3.235.577.075 1.157.14 1.74.194V21l4.155-4.155" stroke-linecap="round" stroke-linejoin="round">
+                    </path></svg>
+                </div>
+                Comments
+            </div>
+        </div>
+
+        <div class="tab-content-container">
+            <div class="tab-content active">
+                <h2>Bookmarks</h2>
+                <div class="content">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum assumenda aperiam in molestias sit ut iste necessitatibus, recusandae eaque, quaerat minima enim veritatis dolores officiis incidunt magni dolorum officia commodi odio ullam quas iusto! Rem vitae, eveniet illo quos modi similique, incidunt impedit distinctio aperiam optio debitis iusto. Cumque, odio.</p>
+
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum assumenda aperiam in molestias sit ut iste necessitatibus, recusandae eaque, quaerat minima enim veritatis dolores officiis incidunt magni dolorum officia commodi odio ullam quas iusto! Rem vitae, eveniet illo quos modi similique, incidunt impedit distinctio aperiam optio debitis iusto. Cumque, odio.</p> 
+
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum assumenda aperiam in molestias sit ut iste necessitatibus, recusandae eaque, quaerat minima enim veritatis dolores officiis incidunt magni dolorum officia commodi odio ullam quas iusto! Rem vitae, eveniet illo quos modi similique, incidunt impedit distinctio aperiam optio debitis iusto. Cumque, odio.</p> 
+                </div>
+            </div>
+
+            <div class="tab-content">
+                <h2>Analitycs</h2>
+                <div class="content">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum assumenda aperiam in molestias sit ut iste necessitatibus, recusandae eaque, quaerat minima enim veritatis dolores officiis incidunt magni dolorum officia commodi odio ullam quas iusto! Rem vitae, eveniet illo quos modi similique, incidunt impedit distinctio aperiam optio debitis iusto. Cumque, odio.</p>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus, accusantium expedita molestiae natus quos eaque non porro atque libero omnis consequuntur repudiandae obcaecati provident a labore magni ratione similique nulla?</p>
+                </div>
+            </div>
+
+            <div class="tab-content">
+                <h2>Comments</h2>
+                <div class="content">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic, qui.       
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum assumenda aperiam in molestias sit ut iste necessitatibus, recusandae eaque, quaerat minima enim veritatis dolores officiis incidunt magni dolorum officia commodi odio ullam quas iusto! Rem vitae, eveniet illo quos modi similique, incidunt impedit distinctio aperiam optio debitis iusto. Cumque, odio.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque aut officiis laborum saepe esse illum nam quaerat dolor expedita corrupti.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae dolorum magnam aspernatur suscipit voluptatum accusantium itaque expedita minus nobis excepturi. Dolor ab laudantium qui deleniti numquam possimus quae sapiente error beatae dignissimos commodi eius eveniet ipsam eligendi itaque, soluta ratione ullam reprehenderit! Eius, cupiditate autem.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+<br />
+<br />
+<br />
+<div style="text-align: left;">Link to Project.<br /><a href="https://github.com/Jadslog/04-TabsResponsive" target="_blank">https://github.com/Jadslog/04-TabsResponsive</a></div><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div><div style="text-align: left;">Links to References.<br /><a href="https://www.youtube.com/watch?v=yTDbFdXJZrc" target="_blank">https://www.youtube.com/watch?v=yTDbFdXJZrc<br /></a><a href="https://github.com/livebloggerofficial/Responsive-Tabs" target="_blank">https://github.com/livebloggerofficial/Responsive-Tabs</a></div><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div>
+  
+<script>
+const tabHeadingAll = document.querySelectorAll(".tabs-container-p04 .tab-heading");
+const tabContentAll = document.querySelectorAll(".tabs-container-p04 .tab-content");
+
+const removeAllActive = () => {
+    tabHeadingAll.forEach(h => {
+        h.classList.remove("active");
+    });
+    tabContentAll.forEach(c => {
+        c.classList.remove("active");
+    });
+}
+
+tabHeadingAll.forEach((h, i) => {
+    h.addEventListener("click",()=> {
+        removeAllActive();
+        tabContentAll[i].classList.add("active");
+        h.classList.add("active");
+    });
+});
+</script>
